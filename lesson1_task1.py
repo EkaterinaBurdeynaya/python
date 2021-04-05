@@ -10,7 +10,7 @@ print(greeting, type(greeting))
 name = input('Please enter your name - ')
 surname = input('Please enter your surname - ')
 num1 = int(input('Please enter the first number - '))
-num2 = int(input('Please enter the socond number - '))
+num2 = int(input('Please enter the second number - '))
 
 print('User {} {}, your numbers  - {} and {}'.format(name, surname, num1, num2))
 
