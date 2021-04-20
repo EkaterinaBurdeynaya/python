@@ -1,0 +1,10 @@
+Ivanov 25543.12
+Petrov 13749.32
+Burdeynaya 23456.90
+Odokienko 14567.12
+Sarafannikov 35449.32
+Bondarev 12346.90
+Terentyev 19876.12
+Dubrovskyy 45639.32
+Burdeynyy 18946.90
+Kotov 65897.90
